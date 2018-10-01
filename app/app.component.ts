@@ -7,11 +7,11 @@ import { Component } from '@angular/core';
   `],
   template: `
     <div class="jumbotron text-center">
-      <h1>The App Lives!</h1>
+      <h1>Teldsadsadasl Cersi it was me!</h1>
       <p>{{ message }}</p>
     </div>
   `
 })
 export class AppComponent {
-  message = 'This is the sample message.';
+  message = 'Can you carry on from here?';
 }
